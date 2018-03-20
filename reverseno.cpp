@@ -16,3 +16,4 @@ while(no>0)
 }
 cout<<"\nReverse of "<<a<<" is: "<<rev;
 getch();
+ //
